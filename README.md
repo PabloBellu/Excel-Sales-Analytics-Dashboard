@@ -10,7 +10,8 @@ El objetivo principal fue transformar un dataset transaccional crudo con problem
 
 ## 🖼️ Dashboard Interactivo
 
-![Preview del Dashboard](assets/dashboard_preview.png)
+![Preview del Dashboard]
+https://github.com/PabloBellu/Excel-Sales-Analytics-Dashboard/blob/main/Excel_Sales_Analytics_Dashboard/Assets/Captura%20Dashboard.png
 
 ---
 
